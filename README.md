@@ -10,8 +10,8 @@ Being diligent, creative, hardworking and result oriented, i pride myself in del
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: Her/she
-- 💡 Fun fact: I'm currently a student at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and Side Hustle [Frontend React JS](https://lms.terrahq.co/) Class of 2022.
-- 🌱 Some of my skills: Vanilla JavaScript, Reactjs,Html5 and CSS.
+- 💡 Fun fact: I was a student at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and Side Hustle [Frontend React JS](https://lms.terrahq.co/) Class of 2022.
+- 🌱 Some of my skills: Vanilla JavaScript, Reactjs, VueJS, Html5 and CSS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer or Front-end Engineer(Intern or Junior level).
 - 📫 You can contact me by emailing omusukup@yahoo.com.
